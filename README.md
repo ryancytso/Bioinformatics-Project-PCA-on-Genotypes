@@ -1,6 +1,6 @@
-# Bioinformatics-Project-PCA-on-Genotypes
-# Credit goes to MariaNattestad 
-# https://github.com/MariaNattestad/pca-on-genotypes
+# Bioinformatics Project PCA on Genotypes
+Credit goes to MariaNattestad 
+https://github.com/MariaNattestad/pca-on-genotypes
 
 This repo contains the code from this video: https://youtu.be/-PCKK_nwFdA
 
